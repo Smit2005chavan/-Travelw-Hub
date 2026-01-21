@@ -24,6 +24,7 @@ The Home Page is the main landing page of the TravelHub website.
 It includes a navigation bar, a hero section with the title **“Discover Your Next Adventure”**, and a search area for destination, date, and number of travelers.  
 Popular destinations like **Goa, Manali, and Kerala** are displayed with images, ratings, and prices.  
 Users can navigate to other pages directly from the home page.
+<img width="658" height="779" alt="image" src="https://github.com/user-attachments/assets/b880aa3e-77be-4342-b1fe-d02eb1288371" />
 
 ### Destinations Page
 This page displays all available travel packages with details such as location, duration, and price.
