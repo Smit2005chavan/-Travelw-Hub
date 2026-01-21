@@ -1,74 +1,74 @@
 # TravelHub – Website Building and Hosting
 
-## 📌 Project Overview
-TravelHub is a simple travel booking website developed as part of **Experiment 1 – Web Analytics**.  
-The project focuses on designing a multi-page website and hosting it using basic web technologies.
+## Project Overview
+TravelHub is a simple travel booking website created as part of **Experiment 1 (Web Analytics)**.  
+The project was mainly done to understand how a basic website can be built using HTML and hosted using GitHub.
 
 ---
 
-## 🎯 Aim
-To build a website with minimum 4–5 linked web pages and host it on a platform.
+## Aim
+To design a website with minimum 4–5 linked pages and host it successfully.
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript  
-- GitHub (Version Control & Hosting)
+## Technology Used
+- HTML (CSS and JavaScript used inside the same HTML file)
+- GitHub (for hosting and version control)
 
 ---
 
-## 📄 Website Pages
+## Website Pages
 
-### 🏠 Home Page
-The Home Page acts as the landing page of the website. It includes a navigation bar, a hero section with travel search options, and a display of popular travel destinations with images, ratings, and prices. Users can easily navigate to other pages from here.
+### Home Page
+The Home Page is the main landing page of the TravelHub website.  
+It includes a navigation bar, a hero section with the title **“Discover Your Next Adventure”**, and a search area for destination, date, and number of travelers.  
+Popular destinations like **Goa, Manali, and Kerala** are displayed with images, ratings, and prices.  
+Users can navigate to other pages directly from the home page.
 
-### 📍 Destinations Page
-Displays all available travel packages with details such as location, duration, description, and price.
+### Destinations Page
+This page displays all available travel packages with details such as location, duration, and price.
 
-### 📝 Booking / Registration Page
-Allows users to enter personal details and book selected travel packages through a form.
+### Booking / Registration Page
+This page allows users to enter their details and book a travel package using a simple form.
 
-### ℹ️ About Page
-Provides information about TravelHub, its services, experience, and reasons to choose the platform.
+### About Page
+The About page provides basic information about TravelHub and its services.
 
-### 📞 Contact Page
-Includes contact details and a form for users to send queries or messages.
+### Contact Page
+The Contact page contains contact information and a form for users to send messages or queries.
 
 ---
 
-## 🚀 Features
-- Responsive navigation menu  
-- Attractive UI with travel cards  
+## Features
+- Single-page HTML structure with internal navigation  
+- Clean and simple user interface  
+- Travel package cards  
 - Booking and contact forms  
-- Smooth page navigation using JavaScript  
-- User-friendly layout  
+- Easy navigation between sections  
 
 ---
 
-## 🌐 Project Links
-- **Hosted Website:** Open `index.html` in browser  
+## Project Links
+- **Hosted Website:** Open `index.html` in a browser  
 - **GitHub Repository:**  
   https://github.com/Smit2005chavan/-Travelw-Hub
 
 ---
 
-## 📊 Learning Outcomes
-- Understood fundamentals of website development  
-- Learned about hosting websites using GitHub  
-- Gained basic knowledge of web analytics concepts  
+## Learning Outcomes
+- Understood basic HTML website structure  
+- Learned how to link multiple sections in a webpage  
+- Gained basic knowledge of hosting a website using GitHub  
 
 ---
 
-## 👨‍🎓 Author
-**Name:** Smit Chavan  
-**Batch:** TY AIDS  
-**Roll No:** 16014223080  
+## Author
+Name: **Smit Chavan**  
+Batch: **TY AIDS**  
+Roll No: **16014223080**
 
 ---
 
-## 📚 References
-- ChatGPT  
+## References
 - GitHub  
 - Visual Studio Code  
